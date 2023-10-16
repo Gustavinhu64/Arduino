@@ -1,4 +1,3 @@
-
 # Atividades de Arduino
 ### Aulas de Arduino realizadas na Unisul
 
